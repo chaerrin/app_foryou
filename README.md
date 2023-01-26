@@ -1,6 +1,6 @@
 # 널 위해서 어플
 
-![first](https://user-images.githubusercontent.com/114633626/214777030-3faed293-65bc-4e6e-ba32-d105f0d86f7e.png)
+![image](https://user-images.githubusercontent.com/114633626/214787061-f7e489e9-7eb9-41cf-a7c9-22ab9e75be5f.png)
 
  ## 널 위해서
   #### 프로젝트 설명
