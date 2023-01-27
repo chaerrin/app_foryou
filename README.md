@@ -8,7 +8,7 @@
    
   #### 프로젝트 정보
    제작 기간 : 6개월 <br />
-   참여 인원 : 4명 <br />
+   참여 인원 : 3명 <br />
    사용 기술 : java, google open api, text to speech(TTS)
    
   #### 성과
